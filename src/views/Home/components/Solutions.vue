@@ -2,7 +2,7 @@
   <div class="solutions" id="solution">
     <div class="title">解决方案</div>
     <div class="desc">
-      经过多年的积累， Wootek团队尽心设计了两套数字广告投放方案，匹配您的不同需求，助您解决广告投放问题
+      经过多年的积累， 我们团队尽心设计了两套数字广告投放方案，匹配您的不同需求，助您解决广告投放问题
     </div>
     <div class="two-side">
       <div class="side one">
