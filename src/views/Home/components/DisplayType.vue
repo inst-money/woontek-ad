@@ -3,7 +3,7 @@
 
     <div class="left">
       <div class="title"> Display广告形式</div>
-      <div class="desc">展示广告的成功需要策划、创意、优化等多维度协作， Wootek则是您的不二伙伴。</div>
+      <div class="desc">展示广告的成功需要策划、创意、优化等多维度协作， 我们是您的不二伙伴。</div>
 
 
       <div class="p">- 根据logo、标题、产品图片、价格等信息，并生成广告直接展示产品</div>
