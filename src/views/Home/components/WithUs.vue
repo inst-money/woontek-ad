@@ -10,7 +10,7 @@
       ></video>
     </div>
     <div class="main">
-      <div class="title">与 Wootek一起推动您的品牌发展</div>
+      <div class="title">一起推动您的品牌发展</div>
     <div class="btn">联系我们</div>
     </div>
 
